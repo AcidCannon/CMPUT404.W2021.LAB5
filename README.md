@@ -1,6 +1,7 @@
 # CMPUT404.W2021.LAB5
 This is the LAB5 solution for CMPUT404 Winter 2021.  
-LAB5 webpage: https://uofa-cmput404.github.io/lab-5-pelican-basic-htmlcss.html
+LAB5 webpage: https://uofa-cmput404.github.io/lab-5-pelican-basic-htmlcss.html  
+Pelican website deployed at: https://acidcannon.github.io/CMPUT404.W2021.LAB5/
 
 # LICENSE
                                  Apache License
